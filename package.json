@@ -1,0 +1,23 @@
+{
+  "name": "v8-perf",
+  "version": "1.0.0",
+  "description": "Authors: [David Mark Clements](https://twitter.com/davidmarkclem) and [Matteo Collina](https://twitter.com/matteocollina)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsan/v8-perf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielsan/v8-perf/issues"
+  },
+  "homepage": "https://github.com/danielsan/v8-perf#readme",
+  "devDependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
